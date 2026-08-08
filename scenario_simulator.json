@@ -1,0 +1,38 @@
+{
+  "scenario_comparison": {
+    "current_situation": {
+      "monthly_income": 0,
+      "monthly_expenses": 0,
+      "monthly_savings": 0,
+      "debt_payment": 0
+    },
+    "scenarios": [
+      {
+        "name": "Increase Savings",
+        "monthly_change": 0,
+        "estimated_monthly_surplus": 0,
+        "benefits": [],
+        "tradeoffs": [],
+        "risks": []
+      },
+      {
+        "name": "Reduce Expenses",
+        "monthly_change": 0,
+        "estimated_monthly_surplus": 0,
+        "benefits": [],
+        "tradeoffs": [],
+        "risks": []
+      },
+      {
+        "name": "Increase Debt Repayment",
+        "monthly_change": 0,
+        "estimated_monthly_surplus": 0,
+        "benefits": [],
+        "tradeoffs": [],
+        "risks": []
+      }
+    ],
+    "assumptions": [],
+    "disclaimer": "Scenario results are estimates based on the assumptions provided."
+  }
+}
