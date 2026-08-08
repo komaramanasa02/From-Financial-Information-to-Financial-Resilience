@@ -1,0 +1,35 @@
+{
+  "financial_resilience_action_plan": {
+    "week_1_understand": [
+      "",
+      "",
+      ""
+    ],
+    "week_2_stabilise": [
+      "",
+      "",
+      ""
+    ],
+    "week_3_protect": [
+      "",
+      "",
+      ""
+    ],
+    "week_4_build": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "monthly_review": {
+    "income_received": 0,
+    "essential_expenses": 0,
+    "other_expenses": 0,
+    "amount_saved": 0,
+    "debt_paid": 0,
+    "emergency_fund_progress": "",
+    "goal_progress": "",
+    "unexpected_expenses": 0,
+    "next_month_priorities": []
+  }
+}
