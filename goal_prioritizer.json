@@ -1,0 +1,19 @@
+{
+  "financial_goals": [
+    {
+      "goal_name": "",
+      "target_amount": 0,
+      "current_amount": 0,
+      "time_period": "",
+      "priority": "",
+      "reason": "",
+      "monthly_action": ""
+    }
+  ],
+  "priority_categories": {
+    "immediate": [],
+    "short_term": [],
+    "medium_term": [],
+    "long_term": []
+  }
+}
