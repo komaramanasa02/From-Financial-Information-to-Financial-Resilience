@@ -1,0 +1,20 @@
+{
+  "fraud_analysis": {
+    "message": "",
+    "risk_level": "",
+    "warning_signs": [],
+    "explanation": "",
+    "safe_next_steps": [],
+    "information_requested": []
+  },
+  "common_red_flags": [
+    "Guaranteed or unrealistic returns",
+    "Urgency or pressure",
+    "Requests for OTP or PIN",
+    "Suspicious links",
+    "Advance-fee requests",
+    "Fake authority or impersonation",
+    "Pressure to transfer money"
+  ],
+  "disclaimer": "This analysis identifies possible warning signs and does not prove that a message is fraudulent."
+}
