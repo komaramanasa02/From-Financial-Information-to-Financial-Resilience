@@ -1,0 +1,31 @@
+{
+  "app": {
+    "name": "Financial Resilience Assistant",
+    "purpose": "Help women understand their financial position, compare financial choices, identify risks, and build financial resilience.",
+    "modules": [
+      "Financial Profile",
+      "Goal Prioritisation",
+      "Emergency Fund Planner",
+      "Scenario Simulator",
+      "Financial Learning",
+      "Fraud Detector",
+      "30-Day Action Plan",
+      "Monthly Review"
+    ],
+    "safety": {
+      "is_financial_advice": false,
+      "guaranteed_returns": false,
+      "personalised_investment_recommendations": false,
+      "requires_professional_advice_for_regulated_decisions": true
+    },
+    "user_journey": [
+      "Discover",
+      "Understand",
+      "Prioritise",
+      "Compare",
+      "Protect",
+      "Act",
+      "Review"
+    ]
+  }
+}
