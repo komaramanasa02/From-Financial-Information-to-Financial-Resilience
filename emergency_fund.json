@@ -1,0 +1,25 @@
+{
+  "emergency_fund": {
+    "monthly_essential_expenses": 0,
+    "current_emergency_savings": 0,
+    "target_months": 0,
+    "estimated_target": 0,
+    "current_gap": 0
+  },
+  "saving_scenarios": [
+    {
+      "monthly_contribution": 0,
+      "estimated_months_to_target": 0
+    },
+    {
+      "monthly_contribution": 0,
+      "estimated_months_to_target": 0
+    },
+    {
+      "monthly_contribution": 0,
+      "estimated_months_to_target": 0
+    }
+  ],
+  "assumptions": [],
+  "disclaimer": "These are educational estimates and are not guaranteed financial outcomes."
+}
