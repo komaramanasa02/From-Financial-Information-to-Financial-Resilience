@@ -1,0 +1,37 @@
+{
+  "financial_learning": {
+    "topics": [
+      {
+        "topic": "Inflation",
+        "simple_explanation": "",
+        "example": "",
+        "key_takeaway": ""
+      },
+      {
+        "topic": "Compound Interest",
+        "simple_explanation": "",
+        "example": "",
+        "key_takeaway": ""
+      },
+      {
+        "topic": "SIP",
+        "simple_explanation": "",
+        "example": "",
+        "key_takeaway": ""
+      },
+      {
+        "topic": "Mutual Funds",
+        "simple_explanation": "",
+        "example": "",
+        "key_takeaway": ""
+      },
+      {
+        "topic": "Risk and Return",
+        "simple_explanation": "",
+        "example": "",
+        "key_takeaway": ""
+      }
+    ]
+  },
+  "disclaimer": "This section provides financial education and does not constitute personalised investment advice."
+}
